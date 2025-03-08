@@ -24,7 +24,7 @@ I'm a passionate developer working on **React Native, Node.js, MongoDB, and AWS*
 - Scaling applications using cloud services  
 
 📬 **Get in Touch**  
-- 🌐 Portfolio: 'https://my-portfolio-sandy-psi-61.vercel.app/'  
+- 🌐 Portfolio: https://my-portfolio-sandy-psi-61.vercel.app/  
 - 📧 Email: vedaant.sankhe@gmail.com    
 - 💼 LinkedIn: Vedaant Sankhe  || www.linkedin.com/in/vedaant-sankhe
 
